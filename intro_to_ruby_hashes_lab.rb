@@ -9,9 +9,10 @@ def actor
 end
 
 def monopoly
+	binding.pry
 	monopoly = {}
 	monopoly[:railroads] = {}
-	binding.pry
+	
 end
 
 def monopoly_with_second_tier
